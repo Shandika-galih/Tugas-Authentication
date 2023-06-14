@@ -169,11 +169,7 @@ public class Program
     private static void SearchUser()
 
     {
-<<<<<<< Updated upstream
-        //Mencari User berdasarkan username
-=======
         //Mencari user berdasarkan username
->>>>>>> Stashed changes
         Console.WriteLine("== SEARCH USER ==");
         Console.Write("Enter username to search: ");
         string username = Console.ReadLine();
