@@ -168,6 +168,7 @@ public class Program
 
     private static void SearchUser()
     {
+        //Mencari User berdasarkan username
         Console.WriteLine("== SEARCH USER ==");
         Console.Write("Enter username to search: ");
         string username = Console.ReadLine();
